@@ -9,7 +9,7 @@ This solution contains a console version of the classic card game of War written
 To play the game, there are a few options available:
 - Clone or download the repository, build the solution, and run from Visual Studio.
 - Use the prebuilt release binaries in Run-Options\1-PrebuiltBinaries.  From a command prompt, run WarCardGame.exe.
-- Use the published application in 2-PublishedFromVisualStudio.  Run setup.exe.
+- Use the published application in Run-Options\2-PublishedFromVisualStudio.  Run setup.exe.
 
 ## Gameplay
 
